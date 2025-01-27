@@ -7,6 +7,11 @@ When working with the Breast Cancer Dataset, preprocessing techniques such pictu
 
 The objective of this suggested methodology is to increase the precision and dependability of breast cancer diagnosis, enabling prompt intervention and individualized treatment plans according to the individualstage of the illness. The accuracy of the suggested method is assessed by comparing it to the capsule network.
 
+## Introduction
+When cancer starts in the breast tissue, it becomes breast cancer Breast cancer is the most common cancer worldwide, with 7.8 million people surviving as of the end of 2020 who received a diagnosis during the previous five years. Convolutional neural networks (CNNs) are artificial neural networks designed primarily to understand pixel input. For image classification, deep learning (DL) with convolutional neural networks (DCNN) has shown to be one of the most successful machine learning (ML) techniques. The Convolutional mapping preserves the most important differential properties of the input data while reducing its dimension. It is well known that convolutional neural networks (CNN) are a type of regular neural networks. This technique provides a unique network that prioritizes ultimately linked hidden layers above convolution and pooling layers . CNN can be used for two purposes: classifier and feature extraction. The findings of  patches are pooled for the whole picture to get the  final  result .
+
+## Objective
+The objectives include improving diagnostic accuracy and enhancing our overall comprehension of the diverse nature. It involve refining  architecture for better performance, and diverse datasets optimizing computational efficiency.
 
 ## Proposed Methodlogy
 
